@@ -55,7 +55,7 @@ npm install
 npm run dev
 \`\`\`
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+4. Open (https://v0-no-poverty.vercel.app/) in your browser
 
 ## Project Structure
 
